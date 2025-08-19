@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "techsagelabs",
+    name: "TechsageLabs",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Build. Learn. Innovate",
     bio: "Innovate future with TechsageLabs",
@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `techsagelabs`,
+      name: "TechsageLabs",
       href: "https://github.com/techsagelabs/blog/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "techsagelabs",
-    description: "welcome to TechsageLabs Blog!",
+    title: "TechsageLabs",
+    description: "Welcome to TechsageLabs Blog!",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
 
